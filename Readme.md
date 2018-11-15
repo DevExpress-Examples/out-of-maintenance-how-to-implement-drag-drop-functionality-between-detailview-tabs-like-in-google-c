@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Main.cs](./CS/WindowsApplication3/Main.cs)
+* [MyGrid.cs](./CS/WindowsApplication3/MyGrid.cs)
+* [MyGridViewInfo.cs](./CS/WindowsApplication3/MyGridViewInfo.cs)
+* [Program.cs](./CS/WindowsApplication3/Program.cs)
+<!-- default file list end -->
 # How to implement Drag-Drop functionality between DetailView tabs like in Google Chrome when using the Master-Detail mode in GridControl
 
 
